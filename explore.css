@@ -1,0 +1,43 @@
+.body{
+    
+        background-color:black;
+}
+.hero {
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+  }
+  
+  .hero h1 {
+    font-size: 3rem;
+    font-weight: bold;
+  }
+  
+  .hero p {
+    font-size: 1.5rem;
+  }
+  
+  .card {
+    border: none;
+    transition: transform 0.3s;
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+  }
+  
+  .logo {
+    cursor: pointer;
+  }
+  
+  .logo img {
+    width: 80px;
+    height: auto;
+  }
+  .py-5{
+
+background-color: gainsboro;
+  }

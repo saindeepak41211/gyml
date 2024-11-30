@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(47, 28, 28);
+  }
+  
+  header {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHK_LQKqGbs4rtMbYrefc54Bv4zykWlkNnnQ&s');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    background-color: #071a1a;
+  }
+  
+  .card img {
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  footer {
+    background: #343a40;
+    color: #ffffff;
+  }
+  
